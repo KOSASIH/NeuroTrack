@@ -11,7 +11,8 @@ NeuroTrack is a cutting-edge Cognitive Training Microservices App designed to en
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [License](#license)
-- [Project Structure](#project-structure) 
+- [Project Structure](#project-structure)
+- [Development](#development) 
 
 ## Introduction
 
