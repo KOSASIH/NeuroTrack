@@ -70,7 +70,7 @@ We welcome contributions from developers of all skill levels. To contribute to N
 3. Make your changes and test thoroughly.
 4. Submit a pull request, detailing the changes you've made.
 
-Please refer to our [Contribution Guidelines](CONTRIBUTING.md) for more information.
+Please refer to our [Contribution Guidelines](https://github.com/KOSASIH/.github/blob/master/CONTRIBUTING.md) for more information.
 
 ## License
 
