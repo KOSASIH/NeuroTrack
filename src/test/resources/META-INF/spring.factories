@@ -1,0 +1,4 @@
+org.springframework.test.context.ContextCustomizerFactory = com.kosasih.\
+    neurotrack.config.TestContainersSpringContextCustomizerFactory,com.kosasih.\
+    neurotrack.config.SqlTestContainersSpringContextCustomizerFactory,com.\
+    kosasih.neurotrack.config.KafkaTestContainersSpringContextCustomizerFactory
